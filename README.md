@@ -1,0 +1,2 @@
+# HTML Refresher
+I followed [this 2 hour course](https://www.youtube.com/watch?v=pQN-pnXPaVg) from [freeCodeCamp](https://www.freecodecamp.org/) and [@mikedane](https://github.com/mikedane) to brush up on my HTML. This is the code from that course.
